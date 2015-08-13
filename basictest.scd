@@ -2,9 +2,13 @@
 Mockup of BinauralPanner and BinauralPannerGUI classes
 © 2015 by Eric Sluyter
 
-This depends on MCmockup.scd and VCmockup.scd being placed in the
-same directory as this file, and on BParaSpace.sc being installed in
-your Extensions directory.
+Before you execute the following code, make sure:
+1. You have fully installed the Ambisonic Toolkit. 
+   (http://www.ambisonictoolkit.net/)
+2. You have placed the accompanying class BParaSpace.sc in your Extensions 
+   directory.
+3. The accompanying MCmockup.scd and VCmockup.scd are placed in the same 
+   directory as this file.
 */
 
 // test whether BParaSpace was installed correctly, if not you will see
