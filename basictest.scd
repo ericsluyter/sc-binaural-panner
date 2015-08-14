@@ -3,11 +3,14 @@ Mockup of BinauralPanner and BinauralPannerGUI classes
 © 2015 by Eric Sluyter
 
 Before you execute the following code, make sure:
-1. You have fully installed the Ambisonic Toolkit. 
+1. You have the most recent version of ATK classes from sc3-plugins.
+   (https://raw.githubusercontent.com/supercollider/sc3-plugins/master/source/ATK/sc/Classes)
+   The SourceForge version won't work!
+2. You have fully installed the Ambisonic Toolkit. 
    (http://www.ambisonictoolkit.net/)
-2. You have placed the accompanying class BParaSpace.sc in your Extensions 
+3. You have placed the accompanying class BParaSpace.sc in your Extensions 
    directory.
-3. The accompanying MCmockup.scd and VCmockup.scd are placed in the same 
+4. The accompanying MCmockup.scd and VCmockup.scd are placed in the same 
    directory as this file.
 */
 
